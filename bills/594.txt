@@ -1,0 +1,16 @@
+		*** Welcome Customers ***
+
+ Bill Number 594
+ Customer Name : erdfg
+ Customer Phone Number : 741852961
+
+==============================================================Product			Quantity			Price
+==============================================================
+Bath Soap			5			100 Rs
+--------------------------------------------------------------
+Cosmetic Tax					12.0RS
+Grocery Tax					0.0RS
+Drinks Tax					0.0RS
+
+Total Bill 					112.0
+--------------------------------------------------------------

@@ -1,0 +1,18 @@
+		*** Welcome Customers ***
+
+ Bill Number 794
+ Customer Name : hjkdsahsc
+ Customer Phone Number : 78963211111111
+
+==============================================================Product			Quantity			Price
+==============================================================
+Bath Soap			4			80 Rs
+Rice			7			210 Rs
+Maaza			88			1760 Rs
+--------------------------------------------------------------
+Cosmetic Tax					9.6RS
+Grocery Tax					10.5RS
+Drinks Tax					140.8RS
+
+Total Bill 					2210.9
+--------------------------------------------------------------
